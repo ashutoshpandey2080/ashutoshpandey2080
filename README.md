@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate MERN stack Developer, looking for opportunity to learn, grow and thrive as a software developer<br>worked on various 
+A passionate MERN stack Developer, looking for opportunity to learn, grow and thrive as a software developer 
 
 
 ## 🌐 Socials:
